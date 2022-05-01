@@ -1,7 +1,7 @@
-#NoteService
+# NoteService
 Проект домашнего задания.
 
-###Поля которые я решил опустить:
+### Поля которые я решил опустить:
 + privacy
 + privacy_view
 + privacy_comment
